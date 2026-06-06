@@ -1,0 +1,7 @@
+.vscode/
+*.png
+*.jpg
+*.mp4
+*.pth
+*.npz
+*.csv
